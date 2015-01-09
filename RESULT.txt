@@ -1,0 +1,4 @@
+step 1: load document file and stop word file
+step 2: put stop words in a hash set
+step 3: put document word into a dictionary, key : word, value : appear times
+step 4: if not in the hash set and the dictionary value more than 1, the print
